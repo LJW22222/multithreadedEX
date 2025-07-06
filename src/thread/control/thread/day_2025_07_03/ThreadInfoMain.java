@@ -1,4 +1,4 @@
-package thread.control.day_2025_07_03;
+package thread.control.thread.day_2025_07_03;
 
 import thread.day_2025_07_01.start.HelloThread;
 
